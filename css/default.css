@@ -203,7 +203,7 @@ body {
     border: solid 0px white;
     /*position: relative;
     left: 40%;*/
-    position: relative;
+    position: absolute;
     top: 85vh;
     margin-left: 50vw;
     left: -30px;
